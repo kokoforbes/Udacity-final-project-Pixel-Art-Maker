@@ -6,3 +6,4 @@ with this project users should be able to
 2. choose a color
 3. click a cell in the grid to fill that cell with the chosen color.
 
+link to githubpage :   https://kokoforbes.github.io/Udacity-final-project-Pixel-Art-Maker/.
